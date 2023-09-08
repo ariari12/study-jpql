@@ -1,4 +1,4 @@
-import jpabook.jpashop.domain.Book;
+
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
